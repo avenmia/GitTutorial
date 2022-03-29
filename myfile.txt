@@ -1,1 +1,2 @@
-Updating my file
+Updating file
+Adding another sentence for my new feature
